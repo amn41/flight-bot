@@ -1,0 +1,17 @@
+*~
+*pyc
+dist/
+data/
+server/
+*.log
+tokens.dat
+config.py
+scala/
+mongodb/
+.cache/
+build/lib/
+databot.egg-info/
+jnk/
+logs/
+tmp/
+profile.*
